@@ -1,1 +1,1 @@
-marchelloI8.github.io/rsschool-cv/cv
+[rsschool-cv](https://marchelloI8.github.io/rsschool-cv/cv)
